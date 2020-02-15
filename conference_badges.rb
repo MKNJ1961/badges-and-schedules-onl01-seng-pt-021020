@@ -17,13 +17,13 @@ def batch_badge_creator(array)
 end
 
   def assign_rooms(array)
-  newarray = []
+  nuarray = []
   counter = 1
   array.each do |name|
-    newarray.push("Hello, #{name}! You'll be assinged to room #{counter}!")
+    nuarray.push("Hello, #{name}! You'll be assinged to room #{counter}!")
   counter += 1
   end
-    return newarray
+    return nuarray
   end
   
 #   def assign_rooms(array)
