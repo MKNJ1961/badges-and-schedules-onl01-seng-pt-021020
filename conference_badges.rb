@@ -28,6 +28,11 @@ end
 end
 
 def printer(array)
-  batch_badge_creator
+  batch_badge_creator(array).each do |id|
+    puts hidden_field_tag
+    assign_rooms(array).each do |id|
+      puts id
+      end 
+    end
 
   
