@@ -16,14 +16,14 @@ def batch_badge_creator(array)
   return newarray
 end
 
-def assign_rooms(Array)
-  newArray[]
+def assign_rooms(array)
+  newarray[]
   counter = 1
-  Array.each do |name|
-  newArray.push("Hello #{name}! You'll be assinged to room #{counter}!")
+  array.each do |name|
+  newarray.push("Hello #{name}! You'll be assinged to room #{counter}!")
   counter += l
 end
-    return newArray
+    return newarray
   end
   
   
