@@ -16,6 +16,9 @@ def batch_badge_creator(array)
   return newarray
 end
 
-
-  
+def assign_rooms()
+  newarray[]
+  counre = 1
+  array.each do |name|
+  newarray.push("Hello #{name}! You'll be assinged to room #{counter}")
   
