@@ -26,4 +26,8 @@ end
   end
   return newarray
 end
+
+def printer(array)
+  batch_badge_creator
+
   
