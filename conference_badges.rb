@@ -18,7 +18,12 @@ end
 
 def assign_rooms()
   newarray[]
-  counre = 1
+  counter = 1
   array.each do |name|
   newarray.push("Hello #{name}! You'll be assinged to room #{counter}")
+  counter += l
+end
+    return newarray
+  end
+  
   
