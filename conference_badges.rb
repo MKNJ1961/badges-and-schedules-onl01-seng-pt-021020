@@ -16,7 +16,7 @@ def batch_badge_creator(array)
   return newarray
 end
 
-def assign_rooms()
+def assign_rooms(array)
   newarray[]
   counter = 1
   array.each do |name|
